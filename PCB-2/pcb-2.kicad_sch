@@ -463,9 +463,6 @@
     (path "/f363a0a2-1f55-4c0a-898f-368749f53756/623ae324-1ea7-4181-b4b5-0bc58688d341"
       (reference "#PWR0130") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f363a0a2-1f55-4c0a-898f-368749f53756/28ec698a-518c-4caa-86ca-2f98aeea0f58"
-      (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
-    )
     (path "/257ba9fc-d482-4f18-91f0-c300b24b5621/7a278ff9-7641-4851-a318-4b5303e88f3e"
       (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
     )
@@ -840,6 +837,9 @@
     )
     (path "/5ba86eae-ad81-438d-8458-367c9c3373c8/02b727dd-fba8-4914-a6f8-17189536279f"
       (reference "#PWR0256") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f363a0a2-1f55-4c0a-898f-368749f53756/9c0fe633-236b-45f2-9f40-1a99e566b89d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/f363a0a2-1f55-4c0a-898f-368749f53756/ff610bb7-114a-4f2a-88fd-a0cf9dc5a841"
       (reference "C1") (unit 1) (value "18pF") (footprint "Franz-Lib:C_0402_1005Metric_NoSilk")
